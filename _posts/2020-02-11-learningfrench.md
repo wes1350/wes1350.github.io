@@ -42,7 +42,7 @@ The most important things, in my opinion, are in **bold**. Approximate milestone
 
   - 12/18: Started listening to French music
 
-  - 1/19: Signed up for the Lingoda half-marathon (now sprint) challenge, starting at A1.2.
+  - **1/19: Signed up for the Lingoda half-marathon (now sprint) challenge, starting at A1.2.**
 
   - 1/19: Started occasionally watching Peppa Pig in French (yes, really)
 
@@ -52,7 +52,7 @@ The most important things, in my opinion, are in **bold**. Approximate milestone
 
   - 3/19: Started (inconsistently) going through the 5000 most common French words deck on Anki
 
-  - **3/19: Quit Lingoda after A2.1, but kept all lesson materials from A1-C2**
+  - 3/19: Quit Lingoda after A2.1, but kept all lesson materials from A1-C2
 
   - 3/19: Reached the end of the Duolingo tree (level 1 in all skills, but most were level 3+)
 
@@ -362,17 +362,17 @@ Of course, you can substitute a good grammar textbook for the Lingoda materials 
 
 There were also some websites I visited very regularly:
 
-### [wordreference.com](wordreference.com)
+### [wordreference.com](https://www.wordreference.com)
 
 This is a wonderful resource for looking up word definitions and example sentences. If I was ever confused about a word or expression, I searched for it here to learn more.
 
 If you use Google Chrome (and maybe other browsers too) you can set up a search engine shortcut to make lookup a word really easy. As an example, if I want to look up the meaning of “attendre”, I can just type “fren attendre” into my address bar to get to the wordreference page for “attendre”.
 
-### [conjugator.reverso.net](conjugator.reverso.net)
+### [conjugator.reverso.net](https://conjugator.reverso.net/conjugation-french.html)
 
 This is the tool I used to look up verb conjugations. Like with wordreference, you can set up a search engine shortcut to make things fast. For example, I type “rfr attendre” in my address bar to view the conjugation of “attendre”.
 
-### [thoughtco.com](thoughtco.com), [lawlessfrench.com](lawlessfrench.com), and [french.kwiziq.com](french.kwiziq.com)
+### [thoughtco.com](https://www.thoughtco.com/french-4133079), [lawlessfrench.com](https://www.lawlessfrench.com), and [french.kwiziq.com](https://french.kwiziq.com)
 
 I found myself on these three sites in particular when I was looking up certain concepts, especially for grammar. They have many excellent articles among them. For example, I often visited [this page](https://www.lawlessfrench.com/grammar/subjunctive/) to review the French subjunctive mood.
 
