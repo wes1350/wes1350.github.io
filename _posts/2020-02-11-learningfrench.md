@@ -84,7 +84,7 @@ The most important things, in my opinion, are in **bold**. Approximate milestone
 
   - **12/19: Learned that I passed the DELF B2 with a score of 86/100\!**
 
-Technically, I learned a tiny bit of French in the fall of 2018 to prep for a trip to Europe, but only a handful of words and touristy phrases. I started seriously studying French in mid-November 2019 and took the DELF a little under 13 months later, but given that I passed it quite comfortably, I think I actually hit the B2 level around 10-11 months in.
+Technically, I learned a tiny bit of French in the fall of 2018 to prep for a trip to Europe, but only a handful of words and touristy phrases. I started seriously studying French in mid-November 2018 and took the DELF a little under 13 months later, but given that I passed it quite comfortably, I think I actually hit the B2 level around 10-11 months in.
 
 # What is my level really?
 
