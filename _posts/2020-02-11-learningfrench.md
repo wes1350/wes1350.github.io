@@ -366,7 +366,7 @@ There were also some websites I visited very regularly:
 
 This is a wonderful resource for looking up word definitions and example sentences. If I was ever confused about a word or expression, I searched for it here to learn more.
 
-If you use Google Chrome (and maybe other browsers too) you can set up a search engine shortcut to make lookup a word really easy. As an example, if I want to look up the meaning of “attendre”, I can just type “fren attendre” into my address bar to get to the wordreference page for “attendre”.
+If you use Google Chrome (and maybe other browsers too) you can set up a search engine shortcut to make looking up a word really easy. As an example, if I want to look up the meaning of “attendre”, I can just type “fren attendre” into my address bar to get to the wordreference page for “attendre”.
 
 ### [conjugator.reverso.net](https://conjugator.reverso.net/conjugation-french.html)
 
@@ -412,9 +412,9 @@ I signed up for the **News in French** e-mail newsletter and read a decent numbe
 
 I listened to the **Learn French with Jessica** **podcast** a fair amount as a beginner as well. This podcast is in English, but will help explain some concepts that can be tricky to understand as a beginner (e.g. the weird French counting system, “c’est” vs. “il est”, etc.)
 
-For more advanced learners, try the **French Voices podcast**, hosted by the same Jessica mentioned above. This podcast features full-length interviews in French features many interesting Francophones (e.g. movie directors, scientists, etc.) I didn’t listen to this podcast too much, but not for lack of quality – for an advanced student, this podcast will be excellent listening practice\!
+For more advanced learners, try the **French Voices podcast**, hosted by the same Jessica mentioned above. This podcast features full-length interviews in French with many interesting Francophones (e.g. movie directors, scientists, etc.) I didn’t listen to this podcast too much, but not for lack of quality – for an advanced student, this podcast will be excellent listening practice\!
 
-I also occasionally visited the **/r/languagelearning, /r/French, and /r/learnfrench** subreddits, more so when I was a beginner. Through these subreddits I discovered many of the resources I discussed above, and also learned a decent amount from some of the French-specific posts. In particular, I came back to [this post](https://www.reddit.com/r/learnfrench/comments/a58us6/jai_r%C3%A9ussi_le_defl_b1/) a few times for inspiration.
+I also occasionally visited the **/r/languagelearning, /r/French, and /r/learnfrench** subreddits, more so when I was a beginner. Through these subreddits I discovered many of the resources I discussed above, and also learned a decent amount from some of the French-specific posts. In particular, I came back to [this post](https://www.reddit.com/r/learnfrench/comments/a58us6/jai_r%C3%A9ussi_le_defl_b1/) a few times for inspiration. Once I reached a solid intermediate level, I sometimes visited the **/r/France** subreddit, which served as interesting reading and taught me some useful vocabulary.
 
 # Other resources I didn’t use
 
@@ -444,7 +444,7 @@ Now that we have discussed the resources I recommend, this is a rough outline of
 
 First, particularly if you are in need of motivation, you can **start looking for French media** to consume to motivate you to learn the language. For me, this was music, but for others, TV shows or books could also work.
 
-Next, I recommend **going through the Duolingo tree** for getting through the A1 and A2 levels. Completing the French tree should teach you all the major tenses and you’ll have a very solid basis for moving onto more advanced material. Of course, ensure you’re using Duolingo as I described earlier in this article to get maximum effectiveness.
+Next, I recommend **going through the Duolingo tree** for getting through the A1 and A2 levels. Completing the French tree should teach you all the major grammatical concepts and you’ll have a very solid basis for moving onto more advanced material. Of course, ensure you’re using Duolingo as I described earlier in this article to get maximum effectiveness.
 
 After getting through a good portion (maybe half or so) of the Duolingo tree, **start going through the 5000 most common words Anki deck**. Do something like 20 new words a day, reviewing words as they come up. If you start Anki late and already know a bunch of words, then you can bump this up to something like 50 words a day, though that’s pretty intensive.
 
@@ -453,6 +453,8 @@ Around the same time, before finishing Duolingo, **you can start taking Lingoda 
 Whether you do Lingoda or not, **start Italki lessons**. If this is your only source of conversation practice, try to take more lessons than otherwise. Once or twice a week is a solid enough rate, but if you’re ambitious you certainly can do more. Having casual conversation is perfectly adequate, as long as you get a bit of variety in conversation topics.
 
 Once you are near the end of the Duolingo tree, you can **start looking for resources targeted at intermediate users**. In French, the **InnerFrench podcast** and YouTube channel are really good for this. You can also start shifting your efforts towards taking more Italki or Lingoda lessons and get more practice speaking and listening, rather than reading and writing.
+
+Whatever you do, you will almost certainly notice that you struggle with some aspects of grammar. Consult a reputable grammar resource, but don't bother spending too much time doing grammar exercises. Instead, try to generally understand the concepts and get practice with them through speaking or writing. 
 
 I’d also recommend **writing on Italki Notebooks** periodically, getting your texts reviewed with Italki tutors if necessary. This should help improve your writing ability.
 
@@ -492,6 +494,8 @@ For French learners, here are some specific observations about pronunciation tha
 
   - Nasal vowels, particularly the difference between “-an” and “–in”. I practiced differentiating between “attendre”, “étendre”, “éteindre”, and “atteindre” pretty often.
 
+  - On that note, the difference between "é" and "è". It's subtle and takes a while to get used to.
+
   - The pronunciation of “s”. Note “s” is pronounced differently as “ss”, “s” at the end of a word, and “s” not at the end of a word.
 
   - “in-” and “im-” at the beginning of words are pronounced differently depending on the next letter in the word. For example, “insensible” and “imparfait” vs. “inevitable” and “innovation”. See if you can figure out the pattern\!
@@ -501,6 +505,8 @@ For French learners, here are some specific observations about pronunciation tha
   - “-oy“ is not pronounced like in “boy” but kind of like “waee”, e.g. in “voyager” or “tutoyer”. “Voyage” sounds like “vwaee-ahj”.
 
   - How to pronounce “plus” based on the context. Honestly I still don’t know this completely.
+
+Lastly, I find French pronunciation to be surprisingly consistent given its reputation. While it's often impossible to know how a word is spelled just from hearing it, you can usually know how a word is pronounced after seeing it once you get the hang of the rules.
 
 # Final Words
 
