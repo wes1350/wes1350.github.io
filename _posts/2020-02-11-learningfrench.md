@@ -1,5 +1,7 @@
 # How I Learned French in 12 Months
 
+(Also posted [here](https://medium.com/@wesleyrunnels/how-i-learned-french-in-12-months-7274bf516b))
+
 ## From A0 to B2 in a year 
 
 A bit over a year ago, I was a completely monolingual English speaker with zero experience with the French language. Twelve months later, I very comfortably passed the internationally recognized DELF B2 exam. If you don’t know what “B2” means, check out the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages#Common_reference_levels).
@@ -426,7 +428,7 @@ There are a lot of other highly recommended resources out there, most of which I
 
   - Assimil
 
-  - Babble
+  - Babbel
 
   - Coffee Break French podcast
 
@@ -458,7 +460,7 @@ Whatever you do, you will almost certainly notice that you struggle with some as
 
 I’d also recommend **writing on Italki Notebooks** periodically, getting your texts reviewed with Italki tutors if necessary. This should help improve your writing ability.
 
-The intermediate phase can be tricky, but I think with enough media consumption at an appropriate level, speaking practice, vocabulary work, and patience, you should be able to push through it. Media consumption includes audio-visual media like listening to music and watching movies, but also activities like **reading books and articles. If** you want to write well, continue writing texts and getting them corrected. Otherwise, be curious and explore what’s out there\!
+The intermediate phase can be tricky, but I think with enough media consumption at an appropriate level, speaking practice, vocabulary work, and patience, you should be able to push through it. Media consumption includes audio-visual media like listening to music and watching movies, but also activities like **reading books and articles.** If you want to write well, continue writing texts and getting them corrected. Otherwise, be curious and explore what’s out there\!
 
 Rinse and repeat the last step until B2.
 
