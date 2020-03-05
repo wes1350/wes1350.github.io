@@ -1,6 +1,8 @@
 # How I Learned French in 12 Months
 
-(Also posted [here](https://medium.com/@wesleyrunnels/how-i-learned-french-in-12-months-7274bf516b))
+(Also posted on [Medium](https://medium.com/@wesleyrunnels/how-i-learned-french-in-12-months-7274bf516b))
+
+(03-05-20: This post got a decent amount of attention on [Hacker News](https://news.ycombinator.com/item?id=22341983), [Reddit](https://www.reddit.com/r/languagelearning/comments/f2xytx/i_learned_french_to_a_b2_level_in_12_months_and_i/), and [Reddit again](https://www.reddit.com/r/languagelearning/comments/f56wfd/how_i_learned_french_in_12_months/). Check out the links to see some discussions about the post and language learning in general, as well as my answers to some questions.)  
 
 ## From A0 to B2 in a year 
 
