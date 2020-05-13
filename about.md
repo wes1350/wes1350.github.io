@@ -1,3 +1,3 @@
 # About
 
-Hello! I will add this later.
+Hello! I'm Wesley, and here are some things I'm interested in. 

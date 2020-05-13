@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: 
+title: mon blog
 description: my blog
 github_username: wes1350
 
 # Email and twitter are optional:
-email: 
+email: runnelswesley@gmail.com
 twitter_username: 
 
 # OPTIONAL: override baseurl and url if using a custom domain
@@ -19,7 +19,7 @@ twitter_username:
 #baseurl: the subpath of your site, e.g. /blog
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
