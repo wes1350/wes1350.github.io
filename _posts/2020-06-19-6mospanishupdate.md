@@ -1,6 +1,6 @@
 # 6 Months of Spanish Progress
 
-In February, I wrote an article describing [how I learned French to a B2 level in 12 months without immersion]({% post_url 2020-02-11-howilearnedfrench.md %}). In that article, I mentioned my goal for 2020 was to do the same for Spanish. Fortunately, I've managed to keep up with my goal so far, so I'm writing this article to give a 6-month update. This article isn't meant to be as comprehensive as my French one, but if I manage to reach B2 in Spanish by the end of this year, I'll write a similar article on that afterwards. For now, I just want to describe what I've done thus far and give people an idea of what my progress looks like in the middle of the learning process.
+In February, I wrote an article describing [how I learned French to a B2 level in 12 months without immersion]({% post_url _posts/2020-02-11-howilearnedfrench.md %}). In that article, I mentioned my goal for 2020 was to do the same for Spanish. Fortunately, I've managed to keep up with my goal so far, so I'm writing this article to give a 6-month update. This article isn't meant to be as comprehensive as my French one, but if I manage to reach B2 in Spanish by the end of this year, I'll write a similar article on that afterwards. For now, I just want to describe what I've done thus far and give people an idea of what my progress looks like in the middle of the learning process.
 
 ## Now with video!
 
