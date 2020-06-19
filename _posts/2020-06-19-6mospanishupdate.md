@@ -144,7 +144,7 @@ There are four websites I visit pretty regularly for reference material for Span
 - [Spanish Dict](https://spanishdict.com) for general Spanish knowledge
 - [Lawless Spanish](https://lawlessspanish.com) for general Spanish knowledge
 
-If you use Google Chrome (and perhaps other browsers too), look into setting up browser shortcuts for WordReference and Reverso (and even other sites you use regularly!) You can find a page describing how to do this on WordReference, as of the time of this writing on the right hand side of the page. As as example, I use the following shortcuts:
+If you use Google Chrome (and perhaps other browsers too), look into setting up browser shortcuts for WordReference and Reverso (and even other sites you use regularly!) You can find out how to do this [here](https://www.wordreference.com/tools/Chrome-search-shortcut.aspx). As as example, I use the following shortcuts:
 
 - "esen WORD" to search for the English translation of the Spanish WORD on WordReference
 - "enes WORD" to search for the Spanish translation of the English WORD on WordReference
