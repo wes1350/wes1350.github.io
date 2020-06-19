@@ -160,7 +160,11 @@ Such shortcuts reduce the friction of looking up new words and visiting certain 
 
 I've listened to a handful of Spanish-speaking artists over the last 6 months, mostly from the recommendations of Spanish-speaking friends. A few artists I've listened to a fair amount so far are **Natalia Lafourcade**, **Ximena Sariñana**, and **ROSALÍA**. I plan on listening to a lot more artists in the second half of 2020.
 
-#### Other
+&nbsp;
+
+---
+
+&nbsp;
 
 That's about it for resources I've used! There are also plenty of other good resources available, and I definitely recommend consuming more media than I have so far. 
 
