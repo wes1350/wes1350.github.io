@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: 
-description: 
+title: My Blog
+description: Some thoughts about things that I find interesting or that are important to me. 
 github_username: wes1350
 
 # Email and twitter are optional:
