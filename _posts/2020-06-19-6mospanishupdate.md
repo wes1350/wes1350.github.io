@@ -4,7 +4,7 @@ In February, I wrote an article describing [how I learned French to a B2 level i
 
 ## Now with video!
 
-A number of people mentioned that they wanted to see me speak French after reading my French article. While I still haven't done a video in French (though I'll get around to it at some point), I figured it would be interesting to document my Spanish skills while I'm still at an lower intermediate level. So, below is a video of me speaking in Spanish for an hour (I've included subtitles in English and Spanish.) In it, I talk generally about my experience learning Spanish. You can see that I can express myself to some extent, but speak pretty slowly, make grammatical errors, get lost at times, and have all the markings of someone who isn't fully comfortable with a language yet. If I had to guess, I'd say I'm around a lower B1 level in this video.
+A number of people mentioned that they wanted to see me speak French after reading my French article. While I still haven't done a video in French (though I'll get around to it at some point), I figured it would be interesting to document my Spanish skills while I'm still at a lower intermediate level. So, below is a video of me speaking in Spanish for an hour (I've included subtitles in English and Spanish.) In it, I talk generally about my experience learning Spanish. You can see that I can express myself to some extent, but speak pretty slowly, make grammatical errors, get lost at times, and have all the markings of someone who isn't fully comfortable with a language yet. If I had to guess, I'd say I'm around a lower B1 level in this video.
 
 [![Me speaking Spanish!](https://img.youtube.com/vi/2f20XLGEg58/0.jpg)](https://www.youtube.com/watch?v=2f20XLGEg58)
 
@@ -76,6 +76,8 @@ Things I have trouble with:
 - Technical, abstract, or specialized topics  
 - Basics I haven't needed to use much yet (e.g. dates, numbers)
 - Accenting words properly
+- Keeping up with fully native-level speech
+- Not saying "Umm..." every 3 seconds
 
 As I said earlier, I estimate myself to be a low-to-mid B1. My speaking might be a bit on the slow end of things for that, but I think my vocabulary is solidly B1 level and I have decent command of most grammar concepts up to the B1 level. I believe this because I have several thousand vocabulary words under my belt (based on Duolingo and Anki, among other things) and have at least lightly read all of Lingoda's Spanish notes through the B1 level.
 
@@ -154,11 +156,11 @@ If you use Google Chrome (and perhaps other browsers too), look into setting up 
 
 Such shortcuts reduce the friction of looking up new words and visiting certain pages and are just generally useful in my opinion.  
 
-#### Music
+### Music
 
 I've listened to a handful of Spanish-speaking artists over the last 6 months, mostly from the recommendations of Spanish-speaking friends. A few artists I've listened to a fair amount so far are **Natalia Lafourcade**, **Ximena Sariñana**, and **ROSALÍA**. I plan on listening to a lot more artists in the second half of 2020.
 
----
+#### Other
 
 That's about it for resources I've used! There are also plenty of other good resources available, and I definitely recommend consuming more media than I have so far. 
 
