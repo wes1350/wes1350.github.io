@@ -1,6 +1,6 @@
 # 6 Months of Spanish Progress
 
-In February, I wrote an article describing [how I learned French to a B2 level in 12 months without immersion](2020-02-11-howilearnedfrench.md). In that article, I mentioned my goal for 2020 was to do the same for Spanish. Fortunately, I've managed to keep up with my goal so far, so I'm writing this article to give a 6-month update. This article isn't meant to be as comprehensive as my French one, but if I manage to reach B2 in Spanish by the end of this year, I'll write a similar article on that afterwards. For now, I just want to describe what I've done thus far and give people an idea of what my progress looks like in the middle of the learning process.
+In February, I wrote an article describing [how I learned French to a B2 level in 12 months without immersion](_posts/2020-02-11-howilearnedfrench.md). In that article, I mentioned my goal for 2020 was to do the same for Spanish. Fortunately, I've managed to keep up with my goal so far, so I'm writing this article to give a 6-month update. This article isn't meant to be as comprehensive as my French one, but if I manage to reach B2 in Spanish by the end of this year, I'll write a similar article on that afterwards. For now, I just want to describe what I've done thus far and give people an idea of what my progress looks like in the middle of the learning process.
 
 ## Now with video!
 
@@ -87,7 +87,7 @@ As can be seen in the Learning Timeline, I've only used a handful of resources t
 
 I discussed all of the resources I have used for Spanish in my French article, so to avoid being redundant, I strongly recommend you check out the Resources section of that article to get a more thorough idea of how I use these resources and my suggestions for using them effectively, especially Duolingo. Nonetheless, I will mention below some specifics for how I've been using these resources for Spanish specifically.
 
-#### Duolingo 
+### Duolingo 
 
 I almost exclusively used Duolingo during the first 4 months of my learning process. This probably took around 150-200 hours of effort (typing quickly does help.) Doing the math, we're talking about 90-120 minutes a day of Duolingo, which sounds about right to me. Although Duolingo often markets itself as a 5-minute-a-day app, I think it is surprisingly effective if you're willing to invest the time to grind it out. After finishing the tree, I was able to have a conversation almost entirely in Spanish, albeit very slowly and with far more mistakes than I make now. I was pleasantly surprised at being able to express myself, even if it was still in that "painful" zone. 
 
@@ -102,7 +102,7 @@ By doing these things and spending the necessary time to finish the Duolingo tre
 
 Side note: After finishing the Spanish tree, I started the Italian tree, because a) gotta maintain my streak, b) Italian is quite similar to French and Spanish, so it should be easy. Well, it turns out the Italian tree is less well developed than the French and Spanish ones. The French and Spanish courses, though they have their warts, are generally pretty pleasant to use, but if you're learning a different language than these two, I'd suggest reading reviews on the course to see if people think it's well designed. Some are similarly well done, but if not, another app or resource might be a superior choice. As for Italian, personally I will consider switching from Duolingo if I end up pursuing it more seriously after reaching my Spanish goals, since I'm not a huge fan of the tree so far. Keep in mind that Duolingo updates their courses over time, so reviews might not always reflect the current state of a given course.
 
-#### Anki
+### Anki
 
 I'm currently about two-thirds of the way through both the Spanish-to-English and English-to-Spanish Anki decks, which are both enabled by default with the [5000 most common Anki words deck I'm using](https://ankiweb.net/shared/info/241428882). (Warning: a handful of the included images are... questionable.) By default, they are mixed together, so I do both directions at the same time.  This is different than what I did for French, where I almost exclusively did the French-to-English deck. Doing both directions probably helps a decent amount with vocabulary retention and recall, but I don't feel like what I did with French was too much worse by any means.
 
@@ -112,7 +112,7 @@ As for time spent each day, I've been doing 100 new cards (50 in each direction)
 
 {% include screenshot url="6mosspanish/anki2.png" %}
 
-#### Italki
+### Italki
 
 I've taken somewhere in the range of 20 to 25 hour-long lessons. That's pretty much all of the speaking practice I've had so far. The cool thing about Spanish is that because it's spoken in so many different countries, I've had the pleasure of speaking with Spanish speakers from numerous different countries: Mexico, Spain, Venezuela, Argentina, Colombia, and even Italy. Still, the majority of my lessons have been with Mexicans, since I'm personally more interested in Mexico, largely due to living in the United States and having Mexican friends (and of course the food.)
 
@@ -127,13 +127,13 @@ If you are interested in speaking lessons through Italki, here are some of my fa
 
 If you've never used Italki before, you can use [this referral link](https://www.italki.com/i/EbAbHa?hl=en-us) to receive an extra $10 in credits. 
 
-#### Lingoda
+### Lingoda
 
 I have gone through all of Lingoda's written resources from A1 to B1. This means that I've read all the grammar notes and have read all the texts, but to save time I've skipped most of the exercises. An important point is that while I downloaded and went through all of the written materials, I did not take any classes this time. By taking classes, you get a lot more out of doing the exercises, along with feedback and clarification on things you're not comfortable with. I feel pretty comfortable self-studying in general, so I haven't bothered taking classes, but I had only positive experiences taking Lingoda classes when I did them with French. If you can afford it, I'd suggest trying out a few classes on Lingoda and seeing if the style of learning suits you. There's also a free trial where you can take a few classes and take a look at the written materials in order to test out the platform. 
 
 I mostly use Lingoda to ensure my grammar foundation is solid, although the included readings and the large corpus of included vocabulary in the written materials are very helpful too. You could likely replace this with a solid grammar resource and a lot of reading. I just used Lingoda because I had a positive experience with it when learning French.
 
-#### Websites
+### Websites
 
 There are four websites I visit pretty regularly for reference material for Spanish:
 
