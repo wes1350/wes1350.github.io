@@ -10,4 +10,4 @@ A collection of resources I've found interesting, useful, and insightful.
 
 ### Programming, Computer Science
 
-- [The Missing Semester of Your CS Education](missing.csail.mit.edu), a series of classes freely available online, intended for filling in gaps in knowledge for CS (Computer Science) students.
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu), a series of classes freely available online, intended for filling in gaps in knowledge for CS (Computer Science) students.
