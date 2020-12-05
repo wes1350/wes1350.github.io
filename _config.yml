@@ -6,14 +6,16 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My Blog
-description: Some thoughts about things that I find interesting or that are important to me. 
+title: Wesley Runnels
 github_username: wes1350
 
 # Email and twitter are optional:
 email: runnelswesley@gmail.com
 twitter_username: 
 
+youtube_channel: UCPY6t-0WpkSILGrff-xtYFA
+youtube_channel_name: Wesley Runnels
+  
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: the subpath of your site, e.g. /blog
