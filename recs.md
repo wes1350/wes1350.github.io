@@ -14,9 +14,9 @@ A collection of resources I've found interesting, useful, and insightful.
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/), a podcast featuring many prominent guests, with a focus on topics related to Artificial Intelligence, though there's plenty of interesting content for those uninterested in AI. 
     - Some episodes I enjoyed:
-        - [#117 Sheldon Solomon: Death and Meaning](https://open.spotify.com/episode/7KvquG7gecad77CeumN7Qn?si=W6sC8N9jTMuMM_yvfHbl-A)
-        - [#63 Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://open.spotify.com/episode/3AjugIDZ40LYpH9GBDu9UN?si=2cYKcyiXTN-KCsWHvEXL6Q)
-        - [#20 Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences](https://open.spotify.com/episode/3kHZxc3hbhxMmE1RMDZoyT?si=eursreHKQduL8Mph8jeTCg)
+        - [#117 Sheldon Solomon: Death and Meaning](https://www.youtube.com/watch?v=qfKyNxfyWbo&t=1144s&ab_channel=LexFridman)
+        - [#63 Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8&ab_channel=LexFridman)
+        - [#20 Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences](https://www.youtube.com/watch?v=Kedt2or9xlo&ab_channel=LexFridman)
 - [Inner French Podcast](https://innerfrench.com/), a podcast, completely in French, geared towards intermediate-level French learners, discussing a variety of interesting topics. 
 
 ### Programming, Computer Science
