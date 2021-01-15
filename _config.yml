@@ -50,6 +50,5 @@ kramdown:
 
 header_pages:
   - about.md
-  - contact.md
   - postindex.md
   - recs.md
