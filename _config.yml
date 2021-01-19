@@ -21,7 +21,7 @@ youtube_channel_name: Wesley Runnels
 #baseurl: the subpath of your site, e.g. /blog
 
 # Set this to true to get LaTeX math equation support
-use_math: false
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
