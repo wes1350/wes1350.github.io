@@ -126,9 +126,9 @@ In any case, we could attempt to extend these statements into further moral depr
 
 You might think you’d share everything with your partner, but if a magician secretly transformed you into a pedophile unable to stop yourself from abusing children (including your own), do you think you could tell them what you’ve become? While such magicians (hopefully) don’t exist, if you’d hide that from your partner, then it follows that you aren’t perfectly close to them.
 
-Now if you think two sane people could reasonably share all the above (and more) with each other, then you might know some interesting people, or maybe you're thinking of two extremely mentally ill sociopaths, which I am not sure I’d count as sane. I cannot believe at this point in my life that two sane, normal people could actually achieve this. \*
+Now if you think two sane people could reasonably share all the above (and more) with each other, then you might know some interesting people, or maybe you're thinking of two extremely mentally ill sociopaths, which I am not sure I’d count as sane. I cannot believe at this point in my life that two sane, normal people could actually achieve this.\*
 
-Of course, this is impossible to test and thus mostly a theoretical nit-picking, but that is my general argument for capping the scale around 90. I could perhaps see some people reaching a bit higher, but I think in general two people aren’t ever going to admit anything at the level of the second-to-last bullet point, except in very special circumstances. \*\*
+Of course, this is impossible to test and thus mostly a theoretical nit-picking, but that is my general argument for capping the scale around 90. I could perhaps see some people reaching a bit higher, but I think in general two people aren’t ever going to admit anything at the level of the second-to-last bullet point, except in very special circumstances.\*\*
 
 \* Of course, someone who has actually done the last bullet point is very far from normal. However, I mean normal here more in the sense of being generally sane (not necessarily *good*, but sane) and capable of forming meaningful relationships. Perhaps it could be argued that nothing above the 80 — or 90, or 95 — level could possibly be done by a “normal” person, but I don’t think such an objection holds or even adds value.
 
