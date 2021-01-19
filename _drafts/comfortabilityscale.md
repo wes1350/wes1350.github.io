@@ -149,3 +149,5 @@ Of course, if you are dealing with a sensitive person, you will be incentivized 
 ### Further Extensions
 
 I will reference the Comfortability Scale in future writings, as I find it a useful tool for analyzing interpersonal relationships. The concept is still in its infancy, so I am very open to feedback on further refining it.
+
+*Read [Comfort, Trust, and Power]({{ site.baseurl }}{% link _drafts/comforttrustandpower.md %}) next*
