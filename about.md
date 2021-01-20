@@ -20,10 +20,11 @@ I have a few primary goals for this blog:
 - Spread knowledge I've gained through experiences, interests, and projects
     - Check out the [Posts]({{ site.url }})
 - Express personal thoughts on topics I find interesting
-    - Check out the [Essays]({{ site.baseurl }}{% link essays/index.md %})
+    - Check out the [Essays]({{ site.baseurl }}{% link essays/index.md %}) for long-form content
+    - Check out the [Shorts]({{ site.baseurl }}{% link shorts/index.md %}) for short-form content
 - Highlight resources I've found helpful or interesting
     - Check out the [Recommendations]({{ site.baseurl }}{% link recs.md %})
-- Get feedback, refinements, and extensions upon things I post
+- Get feedback, refinements, and extensions for things I post
 - Connect with people
     - Have something interesting to say? Contact me!
 

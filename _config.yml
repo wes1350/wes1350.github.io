@@ -14,7 +14,7 @@ email: runnelswesley@gmail.com
 twitter_username: 
 
 youtube_channel: UCPY6t-0WpkSILGrff-xtYFA
-youtube_channel_name: Wesley Runnels
+youtube_channel_name: YouTube
   
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
@@ -50,5 +50,7 @@ kramdown:
 
 header_pages:
   - about.md
-  - postindex.md
+  - posts.md
+  - essays/index.md
+  - shorts/index.md
   - recs.md
