@@ -1,3 +1,7 @@
+---
+mathjax: true
+---
+
 # Comfort, Trust and Power
 
 (Originally written 06-17-19; revised and published 01-19-21)
