@@ -11,3 +11,7 @@ Guides, explanations, and comments on concrete topics.
 #### Spanish
 
 - (06-19-20) [6 Months of Spanish Progress]({% link _posts/2020-06-19-6mospanishupdate.md %})
+
+### Misc
+
+- (01-20-21) [Betting Like a Trader: A Superior Betting System]({% link _posts/2021-01-20-superiorbettingsystem.md %})
