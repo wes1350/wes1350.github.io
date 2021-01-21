@@ -1,5 +1,5 @@
 ---
-mathjax: true
+mathjax: false
 ---
 
 # Comfort, Trust and Power
@@ -8,9 +8,13 @@ mathjax: true
 
 We can roughly think of comfortability (as taken from the [Comfortability Scale]({{ site.baseurl }}{% link essays/comfortabilityscale.md %}), and referred to as *comfort* henceforth) as a function of *trust* and *power*. Trust is how much you trust someone, and power is how much power they have over you, in the sense of being able to negatively affect your life. Specifically,
 
-\\\[\text{Comfort } \textit{increases} \text{ with Trust}\\\]
+> Comfort **increases** with Trust
 
-\\\[\text{Comfort } \textit{decreases} \text{ with Power}\\\]
+> Comfort **decreases** with Power
+
+Alternatively,
+
+> Comfort ~ Trust - Power
 
 ## Trust
 
