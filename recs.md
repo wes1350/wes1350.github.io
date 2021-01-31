@@ -30,7 +30,7 @@ Here I will focus on specific tools or resources to learn languages. Of course, 
 
 - **Spanish**
     - [Lawless Spanish](https://www.lawlessspanish.com/): plenty of useful articles here, for beginners, intermediate, and advanced students. 
-    - [Espanol Avanzado](https://www.espanolavanzado.com/): which I haven't used much except for their wonderful advanced grammar articles. Check out my [index of grammar articles]({{ site.baseurl }}{% link spanish/espanolavanzado.md %}).
+    - [Español Avanzado](https://www.espanolavanzado.com/): which I haven't used much except for their wonderful advanced grammar articles. Check out my [index of grammar articles]({{ site.baseurl }}{% link spanish/espanolavanzado.md %}).
 
 - **Other Languages**
     - I haven't learned any other languages (yet.) I just want to say that Anki and Italki will likely be very useful to you, and you should explore resources specific to your specific langauge. Although Duolingo is popular, course quality is heavily dependent on the language, so you should only use it if the course has good reviews online.

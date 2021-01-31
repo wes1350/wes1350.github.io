@@ -1,6 +1,6 @@
-# Index of Espanol Avanzado articles
+# Index of Español Avanzado articles
 
-I couldn't find an index of grammar articles on Espanol Avanzado, so here's what I could find.
+I couldn't find an index of grammar articles on Español Avanzado, so here's what I could find.
 
 ### Advanced Grammar
 
