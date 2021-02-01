@@ -1,5 +1,5 @@
 ## Shorts
 
-Ideas and comments that aren't as thought-out as essays, but maybe worth posting regardless.
+Ideas and comments that aren't as thought-out as essays, but maybe worth posting regardless. Shorts may eventually become essays or posts.
 
-- (currently empty)
+- (1-31-21) [Preemptively Building a Legacy]({{ site.baseurl }}{% link shorts/buildingalegacy.md %})
