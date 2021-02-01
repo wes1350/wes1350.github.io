@@ -1,6 +1,8 @@
 # Songs I Like
 
- There's only one rule: artists can only appear once.
+There's only one rule: artists can only appear once.
+
+I'm aiming to have at least 100 songs listed at some point (current: 40).
 
 - [Alice In Chains, Rooster](https://www.youtube.com/watch?v=uAE6Il6OTcs&ab_channel=AliceInChainsVEVO)
 - [Alt-J, Taro](https://www.youtube.com/watch?v=S3fTw_D3l10&ab_channel=DavidDeanBurkhart)
@@ -23,10 +25,10 @@
 - [Liszt, La Campanella](https://www.youtube.com/watch?v=qiJcXAuOMNU&ab_channel=robinontheradio)
 - [Lomepal, Yeux Disent](https://www.youtube.com/watch?v=FmUDe7P0fzg&ab_channel=Lomepal)
 - [Mad Season, Wake Up](https://www.youtube.com/watch?v=rKiw94M2v8A&ab_channel=MadSeasonVEVO)
-- [Maluma, Parce](https://www.youtube.com/watch?v=k_WvAH3AE1w&ab_channel=MalumaVEVO)
+- [Maluma, Medallo City](https://www.youtube.com/watch?v=C9ZYquB3zq0&ab_channel=MalumaVEVO)
 - [Mendelssohn, Violin Concerto in E minor, Op. 64, Mvt. 1](https://www.youtube.com/watch?v=Pmj7nCRYNs4&ab_channel=ForrestMcKinney)
 - [Nas, The Message](https://www.youtube.com/watch?v=X3CGu0ezd68&ab_channel=Nas-Topic)
-- [Natalia Lafourcade, Para Qué Sufrir](https://www.youtube.com/watch?v=vmbETH0X4j8&ab_channel=NLaFourcadeVEVO)
+- [Natalia Lafourcade, Antes de Huir](https://www.youtube.com/watch?v=vmbETH0X4j8&ab_channel=NLaFourcadeVEVO)
 - [Nekfeu, Saturne](https://www.youtube.com/watch?v=xqiVtwT4LcE&ab_channel=Nekfeu-Topic)
 - [Nirvana, Where Did You Sleep Last Night](https://www.youtube.com/watch?v=hEMm7gxBYSc&ab_channel=NirvanaVEVO)
 - [Pearl Jam, Alive](https://www.youtube.com/watch?v=wGiTPgvKktM&ab_channel=yujamie123)
