@@ -3,12 +3,12 @@
 Hello! I'm Wesley.
 
 Here are some things I am currently or have been interested in:
-- Learning languages (French, Spanish, Japanese??, Italian??, Portuguese??)
+- Learning languages (French, Spanish, Japanese?, Italian?, Portuguese?)
 - Cooking
+- Chess, Poker
 - Math
-- Strategy games (e.g. chess, poker)
 - Photography
-- Computer science (programming, machine learning)
+- Programming, Machine Learning
 - Playing and creating music
 - Writing!
 
@@ -30,12 +30,11 @@ I have a few primary goals for this blog:
 
 ## Contact
 
-If you
+Feel free to reach out to me, especially if you:
+
 - have questions about something I posted
 - have something interesting or useful you want to show or tell me
 - enjoy or benefit from something on this website
 - have a correction or suggestion to improve this website
 - have an expansion or rebuttal of something I've written
-- want me to write about something specific
-
-then feel free to reach out to me! You can find my info at the bottom of the page.
+- have suggestions on what to write about
