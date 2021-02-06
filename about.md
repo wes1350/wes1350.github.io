@@ -21,7 +21,7 @@ I have a few primary goals for this blog:
     - Check out the [Posts]({{ site.url }})
 - Express personal thoughts on topics I find interesting
     - Check out the [Essays]({{ site.baseurl }}{% link essays/index.md %}) for long-form content
-    - Check out the [Shorts]({{ site.baseurl }}{% link shorts/index.md %}) for short-form content
+    - Check out the [Notes]({{ site.baseurl }}{% link notes/index.md %}) for short-form content
 - Highlight resources I've found helpful or interesting
     - Check out the [Recommendations]({{ site.baseurl }}{% link recs.md %})
 - Get feedback, refinements, and extensions for things I post
