@@ -1,3 +1,3 @@
-# Your blog
+# Source Code for My Website
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+This website is made using Jekyll and hosted on GitHub Pages.
