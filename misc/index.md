@@ -1,6 +1,8 @@
 ---
-title: Misc
+header_title: Misc
 ---
+
+# Miscellaneous
 
 ## Music
 
