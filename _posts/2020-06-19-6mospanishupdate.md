@@ -1,3 +1,7 @@
+---
+tags: Languages
+---
+
 # 6 Months of Spanish Progress
 
 (Also posted on [Medium](https://medium.com/@wesleyrunnels/6-months-of-spanish-progress-37268fc8c5e))

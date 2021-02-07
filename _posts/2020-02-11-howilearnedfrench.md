@@ -1,3 +1,7 @@
+---
+tags: Languages
+---
+
 # How I Learned French in 12 Months
 
 (Also posted on [Medium](https://medium.com/@wesleyrunnels/how-i-learned-french-in-12-months-7274bf516b))

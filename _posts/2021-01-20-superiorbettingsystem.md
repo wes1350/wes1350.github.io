@@ -1,5 +1,6 @@
 ---
 mathjax: false
+tags: Misc
 ---
 
 # Betting like a Trader: A Superior Betting System
