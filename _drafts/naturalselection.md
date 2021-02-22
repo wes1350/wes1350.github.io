@@ -46,4 +46,4 @@ Cultural selection is similar. In the space of memes and ideas, the environment 
 One important point to make is that genes and memes exist on two entirely separate planes of existence: biology, and human abstraction, respectively. While these two domains are connected -- a human being that feels the incentive to reproduce will likely tend to reproduce more than one who does not -- they are still separate, and we should not conflate the two, or frame one in terms of the other. Genes will tend to become more common within a population if they aid their own survival and reproduction more than others do, and memes which aid their own survival and reproduction will tend to become more prevalent within a population, regardless of whether they aid biological survival and reproduction.
 
 
-*Read [Part 2]({{ site.baseurl }}{% link _drafts/dominantculturalideas.md %}) next*
+*Read [Dominant Cultural Ideas]({{ site.baseurl }}{% link _drafts/dominantculturalideas.md %}) next*
