@@ -22,13 +22,17 @@ Of course, some ideas *do* have positive benefits regarding biological survival 
 
 Other ideas have such a negative influence on survival that they tend to disappear almost as quickly as they emerge, as their owners become unable to spread it, whether as a result of death or other means. Suicide, from an evolutionary perspective, is probably a good example of this: individuals who commit suicide are no longer able to (directly) convince others to follow suit. Suicide itself is an idea that can certainly spread throughout a population, perhaps even widely, as seen in the emergence of various suicide cults; yet, as a virus too deadly for its own good, the idea kills its own hosts, and thus ceases to propagate too far within society.
 
+---- need to elaborate on this
+An interesting consequence of this is the possibility of higher-order interactions between genetics and culture. A gene may experience positive selection pressure even if it itself does not lend any benefit to survival and reproduction, or even if it confers a *negative* impact, if it sufficiently encourages the adoption of ideas or cultural elements that *do* benefit its survival and propagation within the population.
+---- ^
 
+## Specific Dominant Cultural Ideas
 
-secondary effects wtih interplay
+### Patriotism
 
+Patriotism seems to be a prime candidate for an example of a dominant cultural idea, in my eyes. I conjecture that patriotism often has a positive influence on the development and survival of societies; those with a patriotic sense of pride in their country will seek to support and contribute to it, leading to improvement in the country over time, further reinforcing patriotic feelings. A country devoid of patriotic citizens will be disadvantaged, in the sense that few will be willing to contribute to its continued survival. Such a country may experience high emigration, if its citizens would prefer living elsewhere, resulting in fewer people investing in the future of the country.
 
-## Patriotism
-
+Interestingly, upon being taken to its nationalistic extremes, patriotism can become a very dangerous belief for a society to possess in great numbers. A strongly nationalistic society may think itself superior to others, leading to a variety of potentially serious negative consequences. One is the appetite for war or conquest, often against supposedly "inferior" peoples, which, if done recklessly, can lead to the society's destruction through militaristic means. Another is the stringent closing of borders and restriction of trade, which can result in reduced technological innovation and exposure, leading to potential economic collapse or, again, risk of defeat through militaristic means by a technomologically superior society. 
 
 
 ## Conclusion...
