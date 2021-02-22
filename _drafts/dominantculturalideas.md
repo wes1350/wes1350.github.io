@@ -4,13 +4,13 @@
 
 I would like to start with a few disclaimers. 
 
-First, essentially *everything* in this article is a matter of speculation; I will attempt to offer explanations for certain common cultural phenomena from the influence of cultural selection, but there is nothing inherently concrete behind anything written here.  
+First, essentially *everything* in this article is a matter of speculation; I will attempt to offer explanations for certain common cultural phenomena by the influence of cultural selection, but there is nothing inherently concrete behind anything written here.  
 
 Second, my goal is to approach each cultural phenomenon as neutrally and objectively as possible, without giving any form of judgment on its morality or correctness.
 
 Lastly, as the word "meme" is now nearly universally used in the sense of Internet memes, I will avoid using it here in order to avoid confusion. Instead, I will use "idea" or similar terms, depending on the context.
 
-With that being said, a *dominant cultural idea*, as I refer to it here, is an idea (i.e. meme) which, by the characteristics it has in incentivizing its own survival and reproduction, has become commonplace within some portion of human society. A dominant cultural idea is the cultural equivalent of a gene which, through its utility in aiding the organisms containing it to survive and reproduce, has become commonplace within a group of organisms. I believe there are a number of dominant culutral ideas commonly found, or sometimes even universally present, within human society. Most of this essay will focus on a few of these specific instances of dominant cultural ideas.
+With that being said, a *dominant cultural idea*, as I refer to it here, is an idea (i.e. meme) which, by the characteristics it has in incentivizing its own survival and reproduction, has become commonplace within some portion of human society. A dominant cultural idea is the cultural equivalent of a gene which, through its utility in aiding the organisms containing it to survive and reproduce, has become commonplace within a population of organisms. I believe there are a number of dominant culutral ideas commonly found, or sometimes even universally present, within human society. The first part of this essay will talk about properties of these dominant cultural ideas, the latter part will focus on a few of these specific instances of dominant cultural ideas.
 
 ## The Interplay Between Human Genetics and Culture
 
@@ -18,7 +18,13 @@ As I mentioned in *Generalizing Natural Selection*, culture and genetics exist i
 
 In fact, an idea can spread within a population even while *harming* each individual's ability to survive and reproduce in a biological sense, as long as the cognitive environment it finds itself in lends itself well to the idea's survival and propagation within the population. A good example of this, which Dawkins mentions in *The Selfish Gene*, is the idea of *celibacy*; despite completely eliminating the possibility of biological reproduction, the idea of *celibacy* can spread within a certain population (e.g. of priests) if the population is receptive to it, and especially so if it carries an advantage over other ideas. If a priest's duties are best fulfilled through the practice of celibacy, and others take on the practice to follow the priest's example (among other mechanisms of propagation of this idea), then the practice of celibacy will spread throughout the population.
 
+Of course, some ideas *do* have positive benefits regarding biological survival and reproduction, and eventually become widespread. The observation of sanitary practices (whether with the intention ofimproving sanitation or not) will improve the chances of survival for individuals, resulting in a positive selection pressure towards individuals who practice superior sanitation. If these individuals spread these practices to their families (among others), we can expect that after several generations, these sanitary practices will become increasingly widespread.
 
+Other ideas have such a negative influence on survival that they tend to disappear almost as quickly as they emerge, as their owners become unable to spread it, whether as a result of death or other means. Suicide, from an evolutionary perspective, is probably a good example of this: individuals who commit suicide are no longer able to (directly) convince others to follow suit. Suicide itself is an idea that can certainly spread throughout a population, perhaps even widely, as seen in the emergence of various suicide cults; yet, as a virus too deadly for its own good, the idea kills its own hosts, and thus ceases to propagate too far within society.
+
+
+
+secondary effects wtih interplay
 
 
 ## Patriotism
