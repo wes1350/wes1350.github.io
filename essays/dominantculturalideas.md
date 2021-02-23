@@ -1,6 +1,6 @@
 # Dominant Cultural Ideas
 
-*Read [Generalizing Natural Selection]({{ site.baseurl }}{% link _drafts/naturalselection.md %}) first*
+*Read [Generalizing Natural Selection]({{ site.baseurl }}{% link essays/naturalselection.md %}) first*
 
 I would like to start with a few disclaimers. 
 
