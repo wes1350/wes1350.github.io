@@ -1,5 +1,7 @@
 # Generalizing Natural Selection
 
+(*Note: What follows are my personal thoughts on Darwinism and its extensions. You may find more authoritative information on this subject by looking for materials related to [Universal or Generalized Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism). Admittedly, I have not read too deeply into the subject.*)
+
 You are surely familiar with *natural selection*, the process by which organisms with different traits experience different rates of survival and reproduction, as a result of their respective traits. Originally proposed by Charles Darwin, it serves as a key mechanism for the process of evolution, which gave rise to the vast array of different organisms we see today.
 
 My first exposure to the idea that natural selection is a specific realization of a more general principle, instead of an exclusively biological process, came from reading [The Selfish Gene](https://en.wikipedia.org/wiki/The_Selfish_Gene) about 10 years ago. In the book, Dawkins coined the idea of *memes*, which, roughly, are gene-like units of human culture which, according to their specific properties, have differential rates of survival and reproduction. Memes (in their original sense, *not* in the sense they carry today, of Internet memes) are a powerful concept, so let's delve into them a bit further.
