@@ -2,6 +2,7 @@
 
 In contrast to posts, essays are more personal or speculative, and generally far less concrete. Don't take them too seriously; I think of them like more detailed, thought-out versions of things I would say in conversations.
 
+ - (02-23-21) [Sitting in Silence]({{ site.baseurl }}{% link essays/silence.md %})
  - (02-22-21) [Dominant Cultural Ideas]({{ site.baseurl }}{% link essays/dominantculturalideas.md %})
  - (02-22-21) [Generalizing Natural Selection]({{ site.baseurl }}{% link essays/naturalselection.md %})
  - (01-17-21) [The Increasing Obsolescence of Elderly Wisdom]({{ site.baseurl }}{% link essays/elderlyobsolescence.md %})
