@@ -45,6 +45,10 @@ Some cards come with built-in benefits, whether for purchases made with the card
 
 There are also sometimes benefits to holding certain credit cards, which are not advertised at the time of sign-up. For example, I've gotten some offers from Discover about exclusive rewards for Discover cardholders, like Amazon discounts or PayPal credits after redeeming cashback points.
 
+### Card Offers
+
+A number of cards allow you to get discounts on a variety of products. I don't use these offers much, but here and there they can save you a few bucks -- for example, 10% off at a specific restaurant, or 5% back on an AirBnB. Other times you'll get a bonus for redeeming points - I've gotten a few bucks from redeeming some points through PayPal or Amazon, for example.
+
 ### Referral Bonuses
 
 Many credit cards will offer you a *referral bonus* if you get someone else to sign up for the card. You need to give someone a personalized link to apply through, and then you'll get credited for the referral later on. 
