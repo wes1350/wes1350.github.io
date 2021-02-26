@@ -1,3 +1,7 @@
+---
+tag: Personal Finance
+---
+
 # An Introduction to Credit Cards
 
 Credit cards, *when used correctly*, are an easy way to save money and earn rewards. Unfortunately, when used *incorrectly* and *recklessly*, they're a great way to pay unnecessary fees and get into long-term debt. For this reason, many people are hesistant to use them, and some avoid them altogether. Personally, I've earned a couple thousand dollars in the past couple of years through getting credit cards and using them reasonably, and with relatively little effort and no negative consequences.

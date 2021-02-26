@@ -1,3 +1,7 @@
+---
+tag: Personal Finance
+---
+
 # Making Money With Credit Cards
 
 *If you're new to credit cards, read [An Introduction to Credit Cards]({{ site.baseurl }}{% link _posts/2021-02-25-introtocreditcards.md %}) first*
