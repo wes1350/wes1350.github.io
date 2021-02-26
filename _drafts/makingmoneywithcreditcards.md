@@ -6,7 +6,7 @@ Before continuing, I just need to say one thing.
 
 **CREDIT CARDS AREN'T FOR EVERYONE**
 
-That's right, credit cards may not even be for *you*. People get into crushing debt through improper credit card usage, either by not understanding how they work or spending money they don't have. 
+That's right -- credit cards may not be for you. People get into crushing debt through improper credit card usage, either by not understanding how they work or spending money they don't have. 
 
 You should **NOT** use credit cards unless **ALL** of the following statements apply to you:
 
@@ -43,11 +43,11 @@ Examples of cashback offerings include "1% cashback on all purchases", "3% cashb
 
 Some cards come with built-in benefits, whether for purchases made with the card or general benefits. Some examples of these benefits are complimentary road side assistance, insurance for purchases, free TSA PreCheck, access to exclusive airport lounges, and complimentary enrollment in hotel loyalty programs.
 
-There are also sometimes benefits to holding certain credit cards, which are not advertised at the time of sign-up. For example, I've gotten some offers from Discover about exclusive rewards for Discover cardholders, like Amazon discounts or PayPal credits after redeeming cash back points.
+There are also sometimes benefits to holding certain credit cards, which are not advertised at the time of sign-up. For example, I've gotten some offers from Discover about exclusive rewards for Discover cardholders, like Amazon discounts or PayPal credits after redeeming cashback points.
 
 ### Referral Bonuses
 
-Many credit cards will offer you a *referral bonus* if you get someone else to sign up for the card. You need to give someone a personalized link, and then you'll get credited for the referral later on. 
+Many credit cards will offer you a *referral bonus* if you get someone else to sign up for the card. You need to give someone a personalized link to apply through, and then you'll get credited for the referral later on. 
 
 I've posted some referral links [here]({{ site.baseurl }}{% link misc/referrals.md %}).
 
@@ -71,37 +71,66 @@ The most important thing is to *never pay interest*. Always pay off your balance
 
 Next, when applying for a credit card, ensure you're aware of any associated fees, like annual fees. If you can find a way to avoid them, do so.
 
-Afterwards comes the fun part: getting free money from credit card companies for using their cards. Personally, I would say the best things to look out for are sign-up bonuses and cash back rewards, although depending on your spending patterns and values, you may benefit more from other perks, like hotel-related perks. There are a lot of cards available out there, so I'll give a few examples of cards to illustrate the benefits.
+Afterwards comes the fun part: getting free money from credit card companies for using their cards. Personally, I would say the best things to look out for are sign-up bonuses and cashback rewards, although depending on your spending patterns and values, you may benefit more from other perks, like hotel-related perks. There are a lot of cards available out there, so I'll give a few examples of cards to illustrate the benefits.
  
 ## Credit Card Examples
 
 There are a ton of cards out there, but I think a few examples of different kinds of cards (as of early 2021) will help illustrate some of the perks available to those who get them. Of course, be aware that depending on a number of factors, including your credit score and other cards you have, you may not be approved for these cards (for now.)
 
-1. Chase Freedom Unlimited
+- Chase Freedom Unlimited
 
-In the past, this card was really simple: 1.5% cash back on *all purchases*. It also came with a sign-up bonus of $200 after spending $500 on the card within 3 months of opening it. That makes opening this card and using it for normal, everyday payments -- groceries, clothing, gas, etc. -- would quickly earn you an easy $200, along with a permanent 1.5% cash back on *everything*.
+In the past, this card was really simple: 1.5% cashback on *all purchases*. It also came with a sign-up bonus of $200 after spending $500 on the card within 3 months of opening it. That makes opening this card and using it for normal, everyday payments -- groceries, clothing, gas, etc. -- would quickly earn you an easy $200, along with a permanent 1.5% cashback on *everything*.
 
 Recently the card has added a few more perks: 5% back on travel booked through Chase, 3% back at restaurants, and 3% back at drugstores. 
 
 All of that with no annual fee!
 
-2. Discover it
+- Discover it
 
-This card is a *rotating cash-back* card (like the Chase Freedom and Freedom Flex). Every quarter (i.e. Jan - Mar, Apr - Jun, etc.), this card gives you 5% cash back (up to $75 total) on a certain set of categories. For example, for this quarter (Q1 2021), the categories are *grocery stores*, *CVS*, and *Walgreens*. You also get 1% cash back on purchases outside of the designated categories.
+This card is a *rotating cashback* card (like the Chase Freedom and Freedom Flex). Every quarter (i.e. Jan - Mar, Apr - Jun, etc.), this card gives you 5% cashback (up to $75 total) on a certain set of categories. For example, for this quarter (Q1 2021), the categories are *grocery stores*, *CVS*, and *Walgreens*. You also get 1% cashback on purchases outside of the designated categories.
 
-Even better, this card *doubles* your cash back in the first year. That means that in your first year, you're effectively earning 10% cash back on purchases in the right categories. And again, no annual fee!
+Even better, this card *doubles* your cashback in the first year. That means that in your first year, you're effectively earning 10% cashback on purchases in the right categories. And again, no annual fee!
 
-3. Chase Sapphire Preferred
+- Chase Sapphire Preferred
 
 The first card on this list with an annual fee: $95 (though when I got it, the first year was free.) Despite this, the sign-up bonus is pretty large: as of the time of this writing, 60,000 bonus points after spending $4000 on the card within 3 months. If you can manage that much spend (it's a good idea to apply for it right before big purchases, like a new computer or phone) within the time frame, the 60,000 points you'll receive is worth either $600 when redeemed for cash, or $750 when redeemed for travel, since this card gets you an extra 25% bonus points on Chase Ultimate Rewards Points. 
 
-The cash back rewards themselves aren't that great: 2% cash back on dining, travel, and grocery store purchases -- other cards without annual fees can get you that. Still, it's better than nothing. 
+The cashback rewards themselves aren't that great: 2% cashback on dining, travel, and grocery store purchases -- other cards without annual fees can get you that. Still, it's better than nothing. 
 
-4. Amex Platinum
+- Amex Platinum
 
-This is one of those premium cards
+This is one of those premium cards that comes with a hefty annual fee ($550) but a lot of perks (another one is the Chase Sapphire Reserved). There are a ton of assorted benefits (this can depend on the offer you receive at the time of application), but I'll just state a few of them here.
 
+- 10x points (i.e. 10 points per dollar spent) at grocery stores and gas stations for the first 6 months of card ownership
+- 5x points on flights and hotels
+- 100,000 points after spending $5000 dollars in the first 3 months of card ownership
+- Free TSA Precheck or Global Entry
+- $100 annual free credit at Saks Fifth Avenue
+- $200 Uber credits every year
+- Upgraded status at Hilton and Marriott hotels
+- Free lounge access at airports
+- (until mid-2021) $30/mo of free PayPal credit
 
+There's a lot of other random benefits, but ultimately there's too many to list here; these are the highlights, at least in my eyes.
 
+Of course, $550 is pretty steep, so it's only worth it if you'll actually use the benefits. In particular, it can be worth it if you do a lot of traveling.
 
+## So, What Card Should I Get?
 
+Ultimately, this is a question that's very dependent on you: your financial situation, what your spending patterns are, what benefits you'd enjoy the most, your credit score, etc. Some cards are hard to get if you have little credit history or a mediocre credit score, so you will need to do independent research to see whether you'd get approved or not. 
+
+Most people who are financially responsible enough to use credit cards would be better off having at least one or two credit cards to at least get cashback on their everyday purchases. It's nice getting a percent or two of cashback whenever you spend money. A card like the *Chase Freedom Unlimited*, with it's universal cashback and $0 annual fee is ideal for this kind of person.
+
+Those who wish to go further can earn a decent chunk of change by optimizing their credit card usage around their spending patterns. For example, you could use the *Discover it* for in-category purchases. You could also use the *Chase Amazon Visa* for 5% cash back on your shopping at Amazon and Whole Foods. Then, maybe you fall back on a universal cashback card for everything else.
+
+Going further, you can start looking for sign-up bonuses too. Some of these cards (like the *Chase Sapphire Preferred*) have annual fees, but the sign-up bonus more than pays for it. Other cards give you a sign-up bonus with no annual fee, which is really nice.
+
+You could also get a high-end card (like the *Amex Platinum*) if it fits your spending pattern, but for many people, such a card wouldn't be worth the annual fee.
+
+Taking it to extremes, you get people, often congregating in various online communities or websites, applies for dozens of cards, hoping to farm bonuses and rewards. Sometimes these people get into territory which breaks the terms and conditions of their cards, sometimes resulting in shutdowns or bans. I wouldn't recommend going that far -- you can do plenty well with a handful of cards -- but it's up to you how much you want to optimize your rewards. If you plan on getting more than 5 or so cards, things can get a bit more complicated, since you have to start thinking longer-term, like in what order you apply for your cards; see Chase's 5/24 rule, for example. 
+
+## Final Words
+
+Credit cards, when used appropriately, are a great way to get some neat benefits and make some extra money. Because there are so many credit card offers out there, it can be a bit complicated figuring out which ones are best for you. You definitely need to do a bit of research, but if you're just looking for a couple minor improvements, a few minutes can go a long way. If you're more ambitious, you can, without too much effort, earn a few hundred bucks, if not a few thousand, over the course of a few years of thoughtful credit card use. While harder to quantify, the various benefits that credit cards offer you can be a nice addition to the financial rewards you receive. 
+
+Although I've tried to give a good idea of the numerous possibilities available by using credit cards, there's a lot more out there for those who are interested. While not all advice related to credit cards is always completely correct, there's a lot of useful information available online. I've only scratched the surface of some topics (e.g. travel-related perks) since I haven't dealt much with them, so you should see if some other aspects of credit cards and their perks are more relevant to you.
