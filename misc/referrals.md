@@ -9,6 +9,8 @@ This page contains referral links for various services or products I use. Feel f
 You have to make your own decision, based on independent research, of whether a given credit card is appropriate for you. However, if you come to that decision, then feel free to use one of the referral links below.
 
 - [American Express Platinum](http://refer.amex.us/WESLERUfMF?xl=cp01) 
+- [Chase Freedom Flex/Unlimited](https://www.referyourchasecard.com/18/CDJ6RXU2SR)
+- [Chase Sapphire Preferred](https://www.referyourchasecard.com/6/S3FFTD8T0A)
 - [Discover it](https://refer.discover.com/s/WESLEY54)
 
 ## Italki
