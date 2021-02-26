@@ -9,11 +9,11 @@ I spent a couple summers in college interning for quantitative trading firms. I 
 
 As an example, here's what a conversation between two people, Alice and Bob, could look like under this betting system. 
 
-> Alice: Hey Bob, I'm at 25 for a hundred that you make that 3.
+> Alice: Hey Bob, at 25 for a hundred that you make that shot.
 
 > Bob: Take 'em!
 
-This translates to a 3:1 bet ($75 vs $25) in Bob's favor (i.e. he would receive the 3x payout), with Bob betting that he makes his next 3-pointer (a long shot in basketball).
+This translates to a 3:1 bet ($75 vs $25) in Bob's favor (i.e. he would receive the 3x payout), with Bob betting that he makes his next shot.
 
 To explain how this system works, I'll build the concepts from the ground up, with plenty of examples given. Though there's a lot of text, the underlying concepts are simple, and you can skip some examples if you think you've got it down.
 
