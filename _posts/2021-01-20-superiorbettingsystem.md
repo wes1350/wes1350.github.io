@@ -133,15 +133,15 @@ This may seem like a lot of steps, but hopefully it's clear what's going on here
 Of course, it would be clunky to always have to write up contracts on pieces of paper, so in practice, contracts are exchanged verbally. To further reduce the clunkiness, there are a few terms related to buying and selling:
 
 - *X bid*: an offer to buy a contract for X.
-- *At X*: an offer to sell a contract for X.
+- *at X*: an offer to sell a contract for X.
 - *buy/take 'em*: said to a seller to accept their offer to sell (i.e. for you to buy from them)
 - *sell/sold*: said to a buyer to accept their offer to buy (i.e. for you to sell to them)
 
-Personally, I prefer saying "take 'em" and "sold" when buying and selling. Also, when saying "X bid" or "At X", the units may be specified later if they aren't clear. To illustrate how these are used, here is what the previous example between Alice and Bob could look like using this terminology.
+Personally, I prefer saying "take 'em" and "sold" when buying and selling. Also, when saying "X bid" or "at X", the units may be specified later if they aren't clear. To illustrate how these are used, here is what the previous example between Alice and Bob could look like using this terminology.
 
 > (prior conversation)
 
-> Bob: Hmm, I'm not so sure about that. How about we bet on it -- I'm 250 bid on the number of countries, $1 a country.
+> Bob: Hmm, I'm not so sure about that. How about we bet on it -- 250 bid on the number of countries, $1 a country.
 
 > Alice: Sold! Let's look this up.
 
@@ -151,13 +151,13 @@ Personally, I prefer saying "take 'em" and "sold" when buying and selling. Also,
 
 Ok, that was much quicker. With a bit of practice, you'll get fast at it very quickly.
 
-Let's highlight one thing in particular: when you're bidding or buying (i.e. saying "I'm X bid" or "take 'em!"), you are hoping the actual value is *higher* than the proposed price: you're "bidding" a lower price for a higher-value item (the contract) in order to make a profit. Similarly, when you're "taking" (i.e. saying "I'm at X" or "sold!"), you're hoping the actual value is *lower* than the price, in order to make a profit.
+Let's highlight one thing in particular: when you're bidding or buying (i.e. saying "X bid" or "take 'em!"), you are hoping the actual value is *higher* than the proposed price: you're "bidding" a lower price for a higher-value item (the contract) in order to make a profit. Similarly, when you're "taking" (i.e. saying "at X" or "sold!"), you're hoping the actual value is *lower* than the price, in order to make a profit.
 
 To drive this concept home, let's look at a few more examples.
 
 ### Example: Betting on the World Cup
 
-> Alice: Hey Bob, Brazil's looking pretty strong for this year's World Cup... I'm 20 bid they win the whole thing for $100.
+> Alice: Hey Bob, Brazil's looking pretty strong for this year's World Cup... 20 bid they win the whole thing for $100.
 
 > Bob: Sold! 
 
@@ -206,7 +206,7 @@ I can't speak for all betting systems, but here are some things I like about thi
 - Flexbility, for binary contracts. You can very easily control the odds (or equivalently, break-even probabilities) by adjusting the price of the contract. A 1 bid gives 99:1 odds, while a 99 bid gives the opposite odds. A 50 bid gives the traditional 1:1 odds.
 - Variable profit/loss for continuous (non-binary) contracts. If you buy the number of points (i.e. buy a contract tied to the number of points) LeBron scores tonight, you will earn more money the more he scores. If you prefer a fixed profit or loss, a binary contract does the trick.
 - Efficiency, once you have the terminology down. You can quickly say "90 bid" on something, and someone else can take the bet with "Sold!"
-- The ability to think directly in terms of probabiltiies, as opposed to odds. Probabilities are much easier to reason about, when we think about how likely something is to happen. 
+- The ability to think directly in terms of probabilities, as opposed to odds. Probabilities are much easier to reason about, when we think about how likely something is to happen.
 
 ## Final Thoughts
 
