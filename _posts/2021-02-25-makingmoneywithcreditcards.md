@@ -1,6 +1,6 @@
 # Making Money With Credit Cards
 
-*If you're new to credit cards, read [An Introduction to Credit Cards]({{ site.baseurl }}{% link _drafts/introtocreditcards.md %}) first*
+*If you're new to credit cards, read [An Introduction to Credit Cards]({{ site.baseurl }}{% link _posts/2021-02-25-introtocreditcards.md %}) first*
 
 Before continuing, I just need to say one thing.
 
@@ -47,7 +47,7 @@ There are also sometimes benefits to holding certain credit cards, which are not
 
 ### Card Offers
 
-A number of cards allow you to get discounts on a variety of products. I don't use these offers much, but here and there they can save you a few bucks -- for example, 10% off at a specific restaurant, or 5% back on an AirBnB. Other times you'll get a bonus for redeeming points - I've gotten a few bucks from redeeming some points through PayPal or Amazon, for example.
+A number of cards allow you to get discounts on a variety of products. I don't use these offers much, but here and there they can save you a few bucks -- for example, 10% off at a specific restaurant, or 5% back on an AirBnB. Other times you'll get a bonus for redeeming points -- I've gotten a few bucks from redeeming some points through PayPal or Amazon, for example.
 
 ### Referral Bonuses
 
@@ -81,7 +81,7 @@ Afterwards comes the fun part: getting free money from credit card companies for
 
 There are a ton of cards out there, but I think a few examples of different kinds of cards (as of early 2021) will help illustrate some of the perks available to those who get them. Of course, be aware that depending on a number of factors, including your credit score and other cards you have, you may not be approved for these cards (for now.)
 
-- Chase Freedom Unlimited
+- **Chase Freedom Unlimited**
 
 In the past, this card was really simple: 1.5% cashback on *all purchases*. It also came with a sign-up bonus of $200 after spending $500 on the card within 3 months of opening it. That makes opening this card and using it for normal, everyday payments -- groceries, clothing, gas, etc. -- would quickly earn you an easy $200, along with a permanent 1.5% cashback on *everything*.
 
@@ -89,19 +89,19 @@ Recently the card has added a few more perks: 5% back on travel booked through C
 
 All of that with no annual fee!
 
-- Discover it
+- **Discover it**
 
 This card is a *rotating cashback* card (like the Chase Freedom and Freedom Flex). Every quarter (i.e. Jan - Mar, Apr - Jun, etc.), this card gives you 5% cashback (up to $75 total) on a certain set of categories. For example, for this quarter (Q1 2021), the categories are *grocery stores*, *CVS*, and *Walgreens*. You also get 1% cashback on purchases outside of the designated categories.
 
 Even better, this card *doubles* your cashback in the first year. That means that in your first year, you're effectively earning 10% cashback on purchases in the right categories. And again, no annual fee!
 
-- Chase Sapphire Preferred
+- **Chase Sapphire Preferred**
 
 The first card on this list with an annual fee: $95 (though when I got it, the first year was free.) Despite this, the sign-up bonus is pretty large: as of the time of this writing, 60,000 bonus points after spending $4000 on the card within 3 months. If you can manage that much spend (it's a good idea to apply for it right before big purchases, like a new computer or phone) within the time frame, the 60,000 points you'll receive is worth either $600 when redeemed for cash, or $750 when redeemed for travel, since this card gets you an extra 25% bonus points on Chase Ultimate Rewards Points. 
 
 The cashback rewards themselves aren't that great: 2% cashback on dining, travel, and grocery store purchases -- other cards without annual fees can get you that. Still, it's better than nothing. 
 
-- Amex Platinum
+- **Amex Platinum**
 
 This is one of those premium cards that comes with a hefty annual fee ($550) but a lot of perks (another one is the Chase Sapphire Reserved). There are a ton of assorted benefits (this can depend on the offer you receive at the time of application), but I'll just state a few of them here.
 

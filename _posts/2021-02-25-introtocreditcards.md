@@ -2,7 +2,7 @@
 
 Credit cards, *when used correctly*, are an easy way to save money and earn rewards. Unfortunately, when used *incorrectly* and *recklessly*, they're a great way to pay unnecessary fees and get into long-term debt. For this reason, many people are hesistant to use them, and some avoid them altogether. Personally, I've earned a couple thousand dollars in the past couple of years through getting credit cards and using them reasonably, and with relatively little effort and no negative consequences.
 
-**While this article does not constitute financial advice**, I hope it serves as a useful introduction into how credit cards work and how to use them properly. In the beginning, we'll define the various terms and concepts associated with credit cards, and in the second half, I'll discuss how to use credit cards effectively and give some concrete examples.
+**While this article does not constitute financial advice**, I hope it serves as a useful introduction into how credit cards work and how to use them properly. In this first post, we'll define the various terms and concepts associated with credit cards. In the next one, we'll discuss how to use credit cards effectively, along with a few concrete examples.
 
 *Note*: The information in this article only applies to those in the United States.
 
@@ -70,4 +70,4 @@ As long as you manage to avoid the downsides of credit cards, using credit cards
 
 One other nice thing about credit cards is that they're more robust against fraud. If you get fraudulent charges on your debit card, it's generally harder and more inconvenient to dispute them than it is with a credit card. In this way, you're a bit safer, from the perspective of dealing with fraud, when you pay with a credit card. Other benefits, like purchase protection or emergency assistance, may also be included with credit cards, leaving you better equipped to deal with a variety of sticky situations.
 
-*Read [Making Money With Credit Cards]({{ site.baseurl }}{% link _drafts/makingmoneywithcreditcards.md %}) next*
+*Read [Making Money With Credit Cards]({{ site.baseurl }}{% link _posts/2021-02-25-makingmoneywithcreditcards.md %}) next*
