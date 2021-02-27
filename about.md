@@ -18,12 +18,12 @@ Here are some things I am currently or have been interested in:
 I have a few primary goals for this blog:
 
 - Spread knowledge I've gained through experiences, interests, and projects
-    - Check out the [Posts]({{ site.url }})
+    - Check out the [Posts]({{ site.baseurl }}{% link posts.md %})
 - Express personal thoughts on topics I find interesting
     - Check out the [Essays]({{ site.baseurl }}{% link essays/index.md %}) for long-form content
     - Check out the [Notes]({{ site.baseurl }}{% link notes/index.md %}) for short-form content
 - Highlight resources I've found helpful or interesting
-    - Check out the [Recommendations]({{ site.baseurl }}{% link misc/recs.md %})
+    - Check out the [Recommendations]({{ site.baseurl }}{% link misc/recommendations/index.md %})
 - Get feedback, refinements, and extensions for things I post
 - Connect with people
     - Have something interesting to say? Contact me!
