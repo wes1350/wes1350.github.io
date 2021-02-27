@@ -1,7 +1,3 @@
----
-header_title: Recs
----
-
 # Recommendations
 
 A collection of resources I've found interesting, useful, and insightful.

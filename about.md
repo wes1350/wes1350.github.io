@@ -23,7 +23,7 @@ I have a few primary goals for this blog:
     - Check out the [Essays]({{ site.baseurl }}{% link essays/index.md %}) for long-form content
     - Check out the [Notes]({{ site.baseurl }}{% link notes/index.md %}) for short-form content
 - Highlight resources I've found helpful or interesting
-    - Check out the [Recommendations]({{ site.baseurl }}{% link recs.md %})
+    - Check out the [Recommendations]({{ site.baseurl }}{% link misc/recs.md %})
 - Get feedback, refinements, and extensions for things I post
 - Connect with people
     - Have something interesting to say? Contact me!
