@@ -1,6 +1,6 @@
 # Essays
 
-In contrast to posts, essays are more personal or speculative, and generally far less concrete. Don't take them too seriously; I think of them like more detailed, thought-out versions of things I would say in conversations.
+Ideas and personal opinions that are speculative and less concrete.
 
  - (02-23-21) [Sitting in Silence]({{ site.baseurl }}{% link essays/silence.md %})
  - (02-22-21) [Dominant Cultural Ideas]({{ site.baseurl }}{% link essays/dominantculturalideas.md %})
