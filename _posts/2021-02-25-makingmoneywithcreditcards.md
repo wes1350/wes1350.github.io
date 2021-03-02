@@ -57,8 +57,6 @@ A number of cards allow you to get discounts on a variety of products. I don't u
 
 Many credit cards will offer you a *referral bonus* if you get someone else to sign up for the card. You need to give someone a personalized link to apply through, and then you'll get credited for the referral later on. 
 
-I've posted some referral links [here]({{ site.baseurl }}{% link misc/referrals.md %}).
-
 ## Credit Card Negatives
 
 We've already seen some of the potential ways you can face negative consequences for using a credit card, but let's recap them here, since it's important.
