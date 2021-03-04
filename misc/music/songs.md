@@ -1,8 +1,10 @@
 # Songs I Like
 
+I struggle with listening to new music, and I tend to have pretty uninteresting tastes. So, having a public list of songs I like is a small motivator towards listening to a more diverse range of music, so this list can look cooler.
+
 There's only one rule: artists can only appear once.
 
-I'm aiming to have at least 100 songs listed at some point (current: 40).
+I'm aiming to have at least 100 songs listed at some point (current: 40). Once I reach 100, I will split the list into genres and work from there.
 
 - [Alice In Chains, Rooster](https://www.youtube.com/watch?v=uAE6Il6OTcs&ab_channel=AliceInChainsVEVO)
 - [Alt-J, Taro](https://www.youtube.com/watch?v=S3fTw_D3l10&ab_channel=DavidDeanBurkhart)
