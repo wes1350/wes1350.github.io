@@ -23,4 +23,4 @@ Feel free to reach out to me, especially if you:
 - have a correction or suggestion for improvement
 - want to show me something interesting
 
-The best way to reach me is at [runnelswesley@gmail.com](mailto:runnelswesley@gmail.com).
+You can contact me through email ([runnelswesley@gmail.com](mailto:runnelswesley@gmail.com)) or Twitter ([@wesleyrunnels](https://twitter.com/wesleyrunnels)).
