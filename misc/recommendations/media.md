@@ -1,7 +1,5 @@
 # Media
 
-Media I think are interesting, insightful, or useful.
-
 ### Blogs
 
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/)
