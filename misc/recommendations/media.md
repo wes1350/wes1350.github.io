@@ -8,6 +8,13 @@ Media I think are interesting, insightful, or useful.
     - [The True Cost of Commuting](https://www.mrmoneymustache.com/2011/10/06/the-true-cost-of-commuting/) 
     - Honestly, just start [from the beginning](https://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/)
 
+- [Paul Graham](http://paulgraham.com/index.html)
+    - [How To Do Philosophy](http://paulgraham.com/philosophy.html)
+    - [Keep Your Identity Small](http://paulgraham.com/identity.html)
+    - [The Age of the Essay](http://paulgraham.com/essay.html)
+    - [The Refragmentation](http://paulgraham.com/re.html)
+    - [The Top Idea in Your Mind](http://paulgraham.com/top.html)
+
 - [Slate Star Codex](https://slatestarcodex.com/)/[Astral Codex Ten](https://astralcodexten.substack.com/)
     - [Different Worlds](https://slatestarcodex.com/2017/10/02/different-worlds/)
     - [I Can Tolerate Anything Except The Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
