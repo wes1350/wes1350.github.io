@@ -10,6 +10,10 @@ Ideas and personal opinions that are speculative and less concrete.
  - (06-17-19) [Comfort, Trust, and Power]({{ site.baseurl }}{% link essays/comforttrustandpower.md %})
  - (06-16-19) [The Comfortability Scale]({{ site.baseurl }}{% link essays/comfortabilityscale.md %})
 
+### Español
+
+- (03-10-21) [Un año de español]({{ site.baseurl }}{% link essays/unanodeespanol.md %})
+
 ### Français
 
 - (03-09-21) [Un an sans français]({{ site.baseurl }}{% link essays/unansansfrancais.md %})
