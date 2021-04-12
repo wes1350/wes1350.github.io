@@ -6,7 +6,7 @@
 - [Dan Luu](http://danluu.com/): programming and computer science
 - [Mr. Money Mustache](https://www.mrmoneymustache.com/): personal finance, frugality, financial independence
     - [The True Cost of Commuting](https://www.mrmoneymustache.com/2011/10/06/the-true-cost-of-commuting/) 
-    - Honestly, just start [from the beginning](https://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/)
+    - Or start [from the beginning](https://www.mrmoneymustache.com/all-the-posts-since-the-beginning-of-time/)
 
 - [Paul Graham](http://paulgraham.com/index.html): startups, advice, life
     - [How To Do Philosophy](http://paulgraham.com/philosophy.html)
@@ -15,18 +15,30 @@
     - [The Refragmentation](http://paulgraham.com/re.html)
     - [The Top Idea in Your Mind](http://paulgraham.com/top.html)
 
-- [Slate Star Codex](https://slatestarcodex.com/)/[Astral Codex Ten](https://astralcodexten.substack.com/): basically everything
+- [Slate Star Codex](https://slatestarcodex.com/): wide variety of topics, thought-provoking essays
+    - [Cardiologists and Chinese Robbers](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/)
     - [Different Worlds](https://slatestarcodex.com/2017/10/02/different-worlds/)
     - [I Can Tolerate Anything Except The Outgroup](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
     - [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
     - [Staying Classy](https://slatestarcodex.com/2016/01/30/staying-classy/)
     - [The Categories Were Made For Man, Not Man For The Categories](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/)
 
+### Books
+- [Age of Ambition: Chasing Fortune, Truth, and Faith in the New China](https://en.wikipedia.org/wiki/Age_of_Ambition)
+
 ### Podcasts
 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/): AI, philosophy, life, expert interviews
+    - [#167 Saagar Enjeti: Politics, History, and Power](https://www.youtube.com/watch?v=grceJbuPUXI&t=3s&ab_channel=LexFridman)
     - [#166 Cal Newport: Deep Work, Focus, Productivity, Email, and Social Media](https://www.youtube.com/watch?v=y3Umo_jd5AA&ab_channel=LexFridman)
     - [#117 Sheldon Solomon: Death and Meaning](https://www.youtube.com/watch?v=qfKyNxfyWbo&t=1144s&ab_channel=LexFridman)
     - [#63 Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8&ab_channel=LexFridman)
     - [#20 Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences](https://www.youtube.com/watch?v=Kedt2or9xlo&ab_channel=LexFridman)
 
+### Websites
+- [LessWrong](https://www.lesswrong.com/): rationality (despite how circle-jerky this sounds, there's some good stuff here)
+    - [Avoiding Your Belief's Real Weak Points](https://www.lesswrong.com/posts/dHQkDNMhj692ayx78/avoiding-your-belief-s-real-weak-points)
+    - [Conservation of Expected Evidence](https://www.lesswrong.com/posts/jiBFC7DcCrZjGmZnJ/conservation-of-expected-evidence)
+    - [Are Your Enemies Innately Evil?](https://www.lesswrong.com/posts/28bAMAxhoX3bwbAKC/are-your-enemies-innately-evil)
+    - [Hindsight Devalues Science](https://www.lesswrong.com/posts/WnheMGAka4fL99eae/hindsight-devalues-science)
+    - [Correspondence Bias](https://www.lesswrong.com/posts/DB6wbyrMugYMK5o6a/correspondence-bias)
