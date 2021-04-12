@@ -6,6 +6,7 @@ Ideas and personal opinions that are speculative and less concrete.
  - (02-23-21) [Sitting in Silence]({{ site.baseurl }}{% link essays/silence.md %})
  - (02-22-21) [Dominant Cultural Ideas]({{ site.baseurl }}{% link essays/dominantculturalideas.md %})
  - (02-22-21) [Generalizing Natural Selection]({{ site.baseurl }}{% link essays/naturalselection.md %})
+ - (01-31-21) [Preemptively Building a Legacy]({{ site.baseurl }}{% link essays/buildingalegacy.md %})
  - (01-17-21) [The Increasing Obsolescence of Elderly Wisdom]({{ site.baseurl }}{% link essays/elderlyobsolescence.md %})
  - (06-17-19) [Comfort, Trust, and Power]({{ site.baseurl }}{% link essays/comforttrustandpower.md %})
  - (06-16-19) [The Comfortability Scale]({{ site.baseurl }}{% link essays/comfortabilityscale.md %})

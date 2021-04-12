@@ -9,7 +9,7 @@ I have a few primary goals for this blog:
 - Explain concrete topics I'm familiar with
     - [Posts]({{ site.baseurl }}{% link posts.md %})
 - Express thoughts on less concrete topics
-    - [Essays]({{ site.baseurl }}{% link essays/index.md %}) and [Notes]({{ site.baseurl }}{% link notes/index.md %})
+    - [Essays]({{ site.baseurl }}{% link essays/index.md %})
 - Highlight resources I've found helpful or interesting
     - [Recommendations]({{ site.baseurl }}{% link misc/recommendations/index.md %})
 - Get feedback, refinements, and extensions for things I post
