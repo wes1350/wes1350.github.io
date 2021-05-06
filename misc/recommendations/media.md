@@ -43,7 +43,7 @@
     - [#63 Stephen Kotkin: Stalin, Putin, and the Nature of Power](https://www.youtube.com/watch?v=oCkkjnpS2f8&ab_channel=LexFridman)
     - [#20 Oriol Vinyals: DeepMind AlphaStar, StarCraft, Language, and Sequences](https://www.youtube.com/watch?v=Kedt2or9xlo&ab_channel=LexFridman)
 - [Conversations with Tyler](https://conversationswithtyler.com/): interviews with experts from a wide range of domains
-    - [Fuschia Dunlop (#2): Chinese Cuisine](https://conversationswithtyler.com/episodes/fuchsia-dunlop-2/)
+    - [Fuchsia Dunlop on Chinese Food, Culture, and Travel](https://www.youtube.com/watch?v=onWbXaRFge0&ab_channel=MercatusCenter)
     - [Masha Gessen on the Ins and Outs of Russia](https://conversationswithtyler.com/episodes/masha-gessen/)
     - [Sam Altman on Loving Community, Hating Coworking, and the Hunt for Talent](https://conversationswithtyler.com/episodes/sam-altman/)
 
